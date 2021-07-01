@@ -1,14 +1,9 @@
 # flutter-challenge
-### Story 1
-As a user, I'd like to be presented with a splash screen before going to the app.
-
-### Criteria
-Create a splash screen with text "Flutter Challenge" which shows for 2 seconds before going to main screen
+### Story
+As a manager, I'd like to have a table where I can edit user email and phone as well as deactivating users.
 
 
-### Story 2
-As a user, I'd like to be able to select a weekday from a list and be taken to that days' page when selected
-### Criteria
-Change count screen to include a dropdown with list of weekdays. 
+### criteria
+Table shows users from http://jsonplaceholder.typicode.com/users with main fields (name, username, email, address/street, phone, website) as well as a Active field.
 
-When weekday is selected, open new container listing the weekday selected
+It should be possible to edit email, phone and Active.
