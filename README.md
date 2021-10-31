@@ -1,15 +1,16 @@
-Initialize new flutter app in repo
+# flutter_challenge
 
-Create screens from figma. On last screen is input field, with number.
-When click Add to total, that is added on second screen.
+A new Flutter project.
 
-If haddock is clicked, screen 3 is updating haddock, if redfish is clicked, redfish is updated
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
 
-Screens in figma
-https://www.figma.com/file/pCURVSZhmqeiahVzst1eBV/Challenge?node-id=0%3A1
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-
-Flow in figma
-https://www.figma.com/proto/pCURVSZhmqeiahVzst1eBV/Challenge?node-id=18%3A100&scaling=scale-down&page-id=0%3A1&starting-point-node-id=18%3A100&show-proto-sidebar=1
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

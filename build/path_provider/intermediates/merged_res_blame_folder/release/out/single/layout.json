@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\untitled folder\\build\\path_provider\\intermediates\\merged_res\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\nm\\.gradle\\caches\\transforms-3\\e60b392af6e3cc898b1095b7c32d8f0f\\transformed\\core-1.1.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\untitled folder\\build\\path_provider\\intermediates\\merged_res\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\nm\\.gradle\\caches\\transforms-3\\e60b392af6e3cc898b1095b7c32d8f0f\\transformed\\core-1.1.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "F:\\untitled folder\\build\\path_provider\\intermediates\\merged_res\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\nm\\.gradle\\caches\\transforms-3\\e60b392af6e3cc898b1095b7c32d8f0f\\transformed\\core-1.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\untitled folder\\build\\path_provider\\intermediates\\merged_res\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\nm\\.gradle\\caches\\transforms-3\\e60b392af6e3cc898b1095b7c32d8f0f\\transformed\\core-1.1.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\untitled folder\\build\\path_provider\\intermediates\\merged_res\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\nm\\.gradle\\caches\\transforms-3\\e60b392af6e3cc898b1095b7c32d8f0f\\transformed\\core-1.1.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\untitled folder\\build\\path_provider\\intermediates\\merged_res\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\nm\\.gradle\\caches\\transforms-3\\e60b392af6e3cc898b1095b7c32d8f0f\\transformed\\core-1.1.0\\res\\layout\\notification_template_part_time.xml"
+    }
+]
